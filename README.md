@@ -21,7 +21,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Wwebsite Interfaces
+## Interfaces
 
 # Interface 1 : index <br /><br />
 
@@ -33,11 +33,11 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 # Interface 3 : User Profile <br /><br />
 
-<img src='readme/profile1.PNG' width='800' height='400' >
+<img src='readme/profile.PNG' width='800' height='400' >
 
 <br />
 
-<img src='readme/index.PNG' width='800' height='400' >
+<img src='readme/profile2.PNG' width='800' height='400' >
 
 # Interface 4 : Adding Posts Page <br /><br />
 
